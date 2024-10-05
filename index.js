@@ -22,3 +22,11 @@ console.log("Odd number is : ", odd);
 
 
 
+let a = '';
+for(let i=1;i<=5;i++){
+    for(let j=1;j<=5;j++){
+       a = "* "+a;
+    }
+    a = "\n"+a;
+}
+console.log(a);
