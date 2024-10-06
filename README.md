@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Narsi Jangid's Portfolio
 Overview
 This is a personal portfolio website created to showcase my skills, projects, and contact information. As a Full Stack Developer in training at Masai School, this portfolio is designed to highlight my technical expertise and past work in web development.
@@ -56,3 +57,7 @@ Contact
 If you have any questions or suggestions, feel free to contact me through the contact form on my portfolio or reach me at:
 
 Email: narsijangid01@example.com 
+=======
+# firstportfolio
+firstportfolio
+>>>>>>> b8ea02313b5c0a1894e8cd4afa95856196d195ba
